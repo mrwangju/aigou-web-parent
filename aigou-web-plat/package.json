@@ -1,7 +1,7 @@
 {
-  "name": "aigou-web-plat",
+  "name": "vueadmin",
   "version": "1.0.5",
-  "description": "aigou-web-plat",
+  "description": "vue admin project",
   "author": "taylor <709161610@qq.com>",
   "license": "MIT",
   "scripts": {
